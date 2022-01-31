@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
-options: "7f7e41c85d1dc105512c2e8752b4d7d2"
-build_time: [1643405399, 570777000]
-inputs:
-  "/Users/ivan/Desktop/pruebakmm/iosApp/iosApp/iOSApp.swift": [1643366414, 569894765]
-  "/Users/ivan/Desktop/pruebakmm/iosApp/iosApp/ContentView.swift": [1643376101, 746008409]
